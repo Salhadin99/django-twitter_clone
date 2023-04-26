@@ -1,1 +1,4 @@
-Link to the template files: https://github.com/tomitokko/django-social-media-template
+# Twitter clone
+
+- Prepared by: Salhadin Usman
+- ID: ETS0921/11
